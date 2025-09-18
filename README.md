@@ -8,11 +8,16 @@
 
 <br clear="both">
 
-![Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoriesEndX&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MemoriesEndX&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoriesEndX&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MemoriesEndX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MemoriesEndX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
