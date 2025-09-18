@@ -9,14 +9,12 @@
 <br clear="both">
 
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MemoriesEndX&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoriesEndX&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
-
-
+<p align="left">
+<a href="https://github.com/MemoriesEndX">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MemoriesEndX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
