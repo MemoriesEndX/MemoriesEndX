@@ -9,14 +9,16 @@
 <br clear="both">
 
 
-<p align="left">
-<a href="https://github.com/MemoriesEndX">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MemoriesEndX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MemoriesEndX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em" alt="GitHub stats"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=MemoriesEndX&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="180em" alt="streak graph"/>
+
 </div>
+
 
 ###
 
