@@ -93,6 +93,20 @@
   </a>
 </div>
 
+
+
+<picture>
+  <!-- Mode dark -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MemoriesEndX/MemoriesEndX/output/github-contribution-grid-snake-dark.svg" />
+  
+  <!-- Mode light -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MemoriesEndX/MemoriesEndX/output/github-contribution-grid-snake.svg" />
+  
+  <!-- Fallback -->
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MemoriesEndX/MemoriesEndX/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ###
 
 <picture>
