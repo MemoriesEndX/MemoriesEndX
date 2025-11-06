@@ -96,6 +96,7 @@ I enjoy working in teams, meeting deadlines, and delivering high-quality results
 
 <!-- 🐍 GitHub Snake -->
 ![snake gif](https://github.com/MemoriesEndX/MemoriesEndX/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/alf1001/alf1001/blob/output/github-snake-dark.svg)
 
 <!-- 🟡 Pacman Contribution Graph -->
 <!-- <picture>
