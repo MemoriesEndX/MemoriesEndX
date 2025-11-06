@@ -95,6 +95,15 @@
 
 
 
+<p align="left">
+<a href="https://github.com/alf1001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MemoriesEndX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MemoriesEndX&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![snake gif](https://github.com/MemoriesEndX/MemoriesEndX/blob/output/github-contribution-grid-snake-dark.svg)
+
 <picture>
   <!-- Mode dark -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MemoriesEndX/MemoriesEndX/output/github-contribution-grid-snake-dark.svg" />
