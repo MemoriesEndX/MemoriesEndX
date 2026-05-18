@@ -36,8 +36,7 @@ current_focus:
 currently_building:
   - "Cineku — Social Platform for Film Creators"
   - "Photobooth SaaS Platform"
-  - "OWL LMS Krakatau Project"
-  - "AI Integrated Learning Platform"
+  - "AI Pilah Yuk DBS UNTIRTA 2026 Integrated Learning Platform"
 ```
 
 ---
@@ -148,11 +147,11 @@ https://youtu.be/0xDn4WZ5v-o
 
 <div align="center">
 
-<a href="https://linkedin.com/in/daffa-rizqy-738950237">
+<a href="https://www.linkedin.com/in/daffa-rizqy-738950237">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/memoriesendz">
+<a href="https://instagram.com/memoriesendX">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
